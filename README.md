@@ -22,7 +22,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Vende antes de imprimir.** Con los mockups realistas muestras tus diseños puestos en la prenda y publicas en redes en los formatos de Instagram, sin tomar fotos ni producir muestras.
 - **Archivos listos para el taller.** Prepara diseños a la medida exacta en centímetros y a 300 DPI, con bordes limpios para DTF. También genera positivos para serigrafía y plantillas de corte para pedrería y vinil, así se evitan errores y desperdicio de material.
 - **Calcula antes de cobrar.** La guía de medidas acomoda tus diseños a tamaño real sobre la prenda y calcula cuánta película DTF usas y cuánto cuesta.
-- **Diseña aunque no seas diseñador.** Más de 50 plantillas editables, hechas con acabado profesional, para playeras, parejas, música y artistas, redes sociales, catálogos y hojas de pedido.
+- **Diseña aunque no seas diseñador.** Textos estilo streetwear en un clic y más de 50 plantillas editables, hechas con acabado profesional, para playeras, parejas, música y artistas, redes sociales, catálogos y hojas de pedido.
 - **Privado y sin internet.** Tus diseños se procesan en tu computadora y no se suben a ningún servidor.
 - **Siempre al día.** El programa se actualiza solo con funciones nuevas.
 
@@ -66,6 +66,13 @@ Convierte logos, dibujos e ilustraciones en **vectores** que puedes agrandar a c
 - **Edita sin volver a trazar:** cambia u oculta cualquier color y revisa los contornos antes de exportar.
 - **Exporta SVG, PDF y EPS** vectoriales al ancho en centímetros que elijas, cada color en su propio grupo, listos para Illustrator, CorelDRAW o Inkscape.
 - **SVG de corte:** solo el contorno de la silueta, para Cricut, Silhouette o plotter de vinil.
+
+### 🔠 Texto Streetwear
+Escribe tu frase y conviértela en un diseño de letras listo para estampar:
+- **16 estilos listos:** Y2K cromo, Burbuja, Gótico, Tatuaje, Gótico pesado, Graffiti, Grunge, Spray, Goteo terror, Metal, Varsity, Glitch, Eco apilado, Neón, Slime y Western.
+- **25 tipografías** de streetwear, Y2K, gótico, metal y terror, también disponibles en el editor de plantillas.
+- **Efectos ajustables:** degradado y cromo, dos contornos, 3D, eco, glitch, arco, onda, inflar, perspectiva, desgaste grunge, goteo y destellos.
+- **Exporta** en PNG transparente a 300 DPI al ancho en cm que elijas, o en vector **SVG, PDF y EPS**. También lo puedes pasar directo a un mockup.
 
 ## ¿Cómo está hecho?
 
