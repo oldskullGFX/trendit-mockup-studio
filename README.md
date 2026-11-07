@@ -23,7 +23,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Sin curva de aprendizaje.** Cada herramienta muestra qué hacer en tres pasos y trae valores recomendados. Hay opciones avanzadas para quien quiera más control.
 - **Vende antes de imprimir.** Con los mockups realistas muestras tus diseños puestos en la prenda y publicas en redes en los formatos de Instagram, sin tomar fotos ni producir muestras.
 - **Archivos listos para el taller.** Prepara diseños a la medida exacta en centímetros y a 300 DPI, con bordes limpios para DTF. También genera positivos para serigrafía y plantillas de corte para pedrería y vinil, así se evitan errores y desperdicio de material.
-- **Calcula antes de cobrar.** La guía de medidas acomoda tus diseños a tamaño real sobre la prenda y calcula cuánta película DTF usas y cuánto cuesta.
+- **Calcula antes de cobrar.** La guía de medidas acomoda tus diseños a tamaño real sobre la prenda, y el Lienzo DTF arma tu hoja completa y te dice cuántos metros usas y cuánto te va a cobrar tu proveedor.
 - **Diseña aunque no seas diseñador.** Textos estilo streetwear en un clic y más de 50 plantillas editables, hechas con acabado profesional, para playeras, parejas, música y artistas, redes sociales, catálogos y hojas de pedido.
 - **Privado y sin internet.** Tus diseños se procesan en tu computadora y no se suben a ningún servidor.
 - **Siempre al día.** El programa se actualiza solo con funciones nuevas.
@@ -38,6 +38,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 
 ### 🖨️ Preparar para imprimir
 - **Archivos DTF:** medida exacta en cm, 300 DPI, limpieza de bordes semitransparentes y revisión de calidad de impresión.
+- **Lienzo DTF (gang sheet):** junta varios diseños en el ancho de tu rollo y ve toda la mesa de trabajo con reglas en cm. Acomódalos a mano o en automático para ahorrar película, calcula el costo según el precio por metro de tu proveedor (y guarda tus proveedores), y descarga el lienzo en PNG a 300 DPI, dividido por metro sin cortar diseños si tu proveedor lo pide.
 - **Quitar fondo con IA:** fondo automático, selección de objeto con un clic, varita mágica, pincel y **borrar un color en toda la imagen**.
 - **Reescalar con IA (Real-ESRGAN):** agranda imágenes pequeñas ×2, ×3 o ×4 para que se impriman nítidas.
 - **Mejorar imagen:** corrección automática de luz, color y nitidez.
