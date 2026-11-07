@@ -7,6 +7,8 @@ Crea mockups realistas, prepara archivos DTF, quita fondos con IA, separa colore
 
 Instagram: [@trenditlab](https://www.instagram.com/trenditlab/) · [@holyshirtux](https://www.instagram.com/holyshirtux/)
 
+[💙 Apoya el proyecto con una donación opcional (Mercado Pago)](https://link.mercadopago.com.mx/hollyshirt)
+
 ---
 
 ## ¿Qué es?
@@ -148,6 +150,14 @@ Síguenos para ver tutoriales, plantillas nuevas y avisos de cada actualización
 - 📸 **Instagram [@holyshirtux](https://www.instagram.com/holyshirtux/)**
 
 Son las mismas cuentas que aparecen en el programa: en la bienvenida y arriba a la derecha.
+
+## 💙 Apoya el proyecto
+
+Trendit Mockup Studio es **gratis** y lo seguirá siendo. Si te ayuda en tu negocio y quieres apoyarnos para seguir agregando herramientas, puedes hacer una **donación opcional** por Mercado Pago, de la cantidad que tú quieras:
+
+**[👉 Donar con Mercado Pago](https://link.mercadopago.com.mx/hollyshirt)**
+
+También puedes apoyar compartiendo el programa con otros diseñadores y siguiéndonos en Instagram. ¡Gracias!
 
 ---
 
