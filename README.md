@@ -57,7 +57,15 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Editor de plantillas por capas:** textos con degradado, doble contorno y efecto 3D; texto curvo; fotos en círculo o corazón; formas, íconos y tablas. Exporta PNG, JPG o PDF.
 - **Plantillas:** playeras (universitario, jersey, retro, Y2K, groovy, graffiti…), parejas («Only You», «Nuestra canción»…), música y artistas (reproductor con letra, estilo bootleg, gira, boleto de concierto), redes sociales, catálogos y hojas de pedido.
 - **Guía de medidas:** acomoda los diseños a tamaño real sobre el plano de la prenda y calcula el costo de DTF.
-- **Paleta de colores** (códigos HEX), **patrón repetido** para sublimación y **vectorizar a SVG**.
+- **Paleta de colores** (códigos HEX) y **patrón repetido** para sublimación.
+
+### ✒️ Vectorizador
+Convierte logos, dibujos e ilustraciones en **vectores** que puedes agrandar a cualquier tamaño sin perder calidad:
+- **Tipos de diseño:** logo, ilustración, foto, silueta (un color) y línea, con colores automáticos y cuatro niveles de detalle.
+- **Trazado limpio:** usa una paleta exacta y limpia el ruido, así no quedan astillas ni colores intermedios. Puede quitar el fondo de color sólido.
+- **Edita sin volver a trazar:** cambia u oculta cualquier color y revisa los contornos antes de exportar.
+- **Exporta SVG, PDF y EPS** vectoriales al ancho en centímetros que elijas, cada color en su propio grupo, listos para Illustrator, CorelDRAW o Inkscape.
+- **SVG de corte:** solo el contorno de la silueta, para Cricut, Silhouette o plotter de vinil.
 
 ## ¿Cómo está hecho?
 
@@ -68,17 +76,71 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
   - Quitar fondo automático con @imgly/background-removal.
   - Reescalado con Real-ESRGAN en ONNX Runtime, usando la tarjeta gráfica (WebGPU) o varios núcleos del procesador. El programa elige solo lo más rápido para tu equipo.
   - Algunos modelos se descargan una sola vez, la primera vez que los usas.
-- **Vectorización** con ImageTracer (dominio público).
+- **Vectorización** propia: paleta exacta, limpieza de ruido y quitar fondo antes de trazar las curvas con ImageTracer (dominio público). La exportación a PDF y EPS vectorial está escrita desde cero.
 - **Actualizaciones automáticas** con electron-updater desde las publicaciones de este repositorio.
 - Tus plantillas y diseños guardados se almacenan en tu computadora.
 
 ## Instalación
 
-1. Descarga `Trendit-Mockup-Studio-Setup-X.Y.Z.exe` desde [Releases](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest) y ábrelo.
-2. Si Windows muestra un aviso de SmartScreen, haz clic en **Más información → Ejecutar de todas formas**. El programa todavía no está firmado digitalmente.
-3. ¿No quieres instalar? Usa `Trendit-Mockup-Studio-Portable-X.Y.Z.exe`. La versión portable no se actualiza sola.
+**Requisitos:** Windows 10 u 11 de 64 bits, 4 GB de RAM (se recomiendan 8 GB) y unos 400 MB libres. Para las funciones de IA se recomienda una tarjeta gráfica, aunque también funcionan con el procesador.
 
-Tus descargas se guardan en **Descargas › Trendit Mockup Studio**.
+Hay dos formas de usar el programa:
+
+| | Instalador (recomendado) | Portable |
+|---|---|---|
+| Archivo | `Trendit-Mockup-Studio-Setup-X.Y.Z.exe` | `Trendit-Mockup-Studio-Portable-X.Y.Z.exe` |
+| Se instala en la computadora | Sí, con acceso directo en el escritorio y en el menú Inicio | No, se abre directo |
+| Se actualiza solo | ✅ Sí | ❌ No, hay que descargar la versión nueva a mano |
+| Ideal para | Uso diario | Probar el programa o llevarlo en una USB |
+
+### Método 1: instalador (recomendado)
+
+1. Entra a la [última versión](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest) y, en **Assets**, descarga `Trendit-Mockup-Studio-Setup-X.Y.Z.exe`.
+2. Abre el archivo descargado.
+3. Si Windows muestra **«Windows protegió su PC»** (SmartScreen), haz clic en **Más información → Ejecutar de todas formas**. Aparece porque el programa todavía no tiene firma digital de pago; es normal en programas independientes.
+4. Elige si lo instalas solo para tu usuario y en qué carpeta, y pulsa **Instalar**.
+5. Al terminar, ábrelo desde el acceso directo **Trendit Mockup Studio** del escritorio o del menú Inicio.
+
+### Método 2: portable (sin instalar)
+
+1. Descarga `Trendit-Mockup-Studio-Portable-X.Y.Z.exe` desde la [última versión](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest).
+2. Guárdalo donde quieras (escritorio, una carpeta o una USB) y ábrelo con doble clic. Si aparece SmartScreen, sigue el mismo paso 3 del método 1.
+3. Tarda unos segundos en abrir porque se descomprime cada vez.
+
+### Primer uso
+
+1. Al abrir aparece la bienvenida con nuestras redes. Pulsa **Continuar al programa**.
+2. Abre tu diseño con **📂 Abrir**, arrastrándolo a la ventana o pegándolo con **Ctrl+V**.
+3. Elige una tarea en la pantalla de inicio o en el menú de la izquierda; cada herramienta te guía en 3 pasos.
+4. Descarga con el botón morado. Los archivos se guardan en **Descargas › Trendit Mockup Studio**. El botón **Descargas** de la barra superior abre esa carpeta.
+5. La primera vez que usas una herramienta de IA (quitar fondo o selección de objeto) se descarga su modelo; necesitas internet solo esa vez.
+
+### Actualizaciones
+
+- **Automáticas (instalador):** al abrir, el programa revisa si hay una versión nueva y la descarga en segundo plano. Se instala sola cuando cierras el programa, o puedes hacerlo al momento desde **Actualizaciones → Reiniciar y actualizar**.
+- **Manuales:** en **Actualizaciones** puedes desactivar la opción automática y buscar cuando quieras con **Buscar actualizaciones**.
+- **Encima de la versión anterior:** si descargas un instalador nuevo, solo ábrelo. Se instala sobre la versión anterior y conservas tus plantillas, diseños guardados y ajustes.
+- **Portable:** el programa te avisa cuando hay versión nueva y te lleva a esta página para descargarla.
+
+### Desinstalar
+
+**Configuración de Windows → Aplicaciones → Aplicaciones instaladas → Trendit Mockup Studio → Desinstalar.** Tus archivos de la carpeta Descargas no se borran.
+
+### Problemas comunes
+
+- **No abre o se queda en blanco:** actualiza el controlador de tu tarjeta gráfica y vuelve a abrir el programa.
+- **El quitar fondo con IA da error:** revisa tu conexión a internet la primera vez (se descarga el modelo) y vuelve a intentarlo.
+- **El reescalado va lento:** es normal en computadoras sin tarjeta gráfica. La primera vez el programa mide qué es más rápido en tu equipo y lo recuerda.
+- **¿Otra duda?** Escríbenos por Instagram o abre un reporte en [Issues](https://github.com/oldskullGFX/trendit-mockup-studio/issues).
+
+## Redes sociales
+
+Síguenos para ver tutoriales, plantillas nuevas y avisos de cada actualización:
+
+- 📸 **Instagram [@trenditlab](https://www.instagram.com/trenditlab/)**
+- 📸 **Instagram [@holyshirtux](https://www.instagram.com/holyshirtux/)**
+
+Son las mismas cuentas que aparecen en el programa: en la bienvenida y arriba a la derecha.
 
 ---
 
