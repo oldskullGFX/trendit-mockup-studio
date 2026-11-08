@@ -44,6 +44,12 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Mejorar imagen:** corrección automática de luz, color y nitidez.
 - **Girar y recortar**, **recorte en forma** (círculo, corazón, estrella, hexágono, insignia) y **conversor de archivos** (PNG, JPG, WEBP, ICO).
 
+### 📸 Foto pro
+- **Expandir imagen con IA:** agranda tu foto a 9:16, 4:5, 16:9 o lo que quieras y rellena lo nuevo con IA que inventa el fondo, estirando el fondo, en espejo, con un color o transparente.
+- **Revelado estilo Lightroom:** exposición, luces y sombras, curva de tonos por canal, temperatura, mezcla de color HSL, gradación de color, claridad, neblina, viñeta, grano y nitidez, con histograma en vivo, botón Auto y 12 estilos listos.
+- **Desenfoque pro:** gaussiano, lente con bokeh, movimiento, zoom, efecto miniatura (tilt-shift) y desenfocar el fondo de un retrato o producto con IA.
+- **Efectos de luz:** foco de estudio, resplandor, fugas de luz de película, destello de lente y rayos de luz.
+
 ### ✨ Efectos
 - **Semitonos sin semitransparencias**, incluido el modo para borrar un color con puntos.
 - **Umbral**, **viñetas**, **marcos**, **texturas vintage**, **cambio de color**.
@@ -85,6 +91,7 @@ Escribe tu frase y conviértela en un diseño de letras listo para estampar:
   - Selección de objetos con un modelo tipo SAM (transformers.js).
   - Quitar fondo automático con @imgly/background-removal.
   - Reescalado con Real-ESRGAN en ONNX Runtime, usando la tarjeta gráfica (WebGPU) o varios núcleos del procesador. El programa elige solo lo más rápido para tu equipo.
+  - Expandir imagen con LaMa (licencia Apache-2.0) en ONNX Runtime, procesando en cuadros de 512×512 y emparejando el color con la foto original.
   - Algunos modelos se descargan una sola vez, la primera vez que los usas.
 - **Vectorización** propia: paleta exacta, limpieza de ruido y quitar fondo antes de trazar las curvas con ImageTracer (dominio público). La exportación a PDF y EPS vectorial está escrita desde cero.
 - **Actualizaciones automáticas** con electron-updater desde las publicaciones de este repositorio.
