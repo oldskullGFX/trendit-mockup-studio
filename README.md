@@ -32,7 +32,8 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 
 ### 👕 Mockups
 - **Mockup realista:** coloca tu diseño en playeras y sudaderas reales y cambia el color de la prenda. Respeta las arrugas y la luz de la tela. Exporta en formatos para Instagram (1:1, 4:5, historia).
-- **Mockups automáticos:** genera de una vez tu diseño en varias prendas y colores, y descárgalos en un ZIP.
+- **Medida real:** elige talla (CH a 3EG) y corte (regular u oversize); el diseño se coloca en cm y a la distancia exacta del cuello, con opción de mostrar las medidas sobre la prenda.
+- **Mockups automáticos:** genera de una vez tu diseño en varias prendas y colores, con medidas reales, y descárgalos en un ZIP.
 - **Mis plantillas:** usa fotos de tus propias prendas como mockup.
 - **Frente y espalda:** divide un diseño que une frente y espalda y míralo puesto en la prenda.
 
@@ -40,13 +41,16 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Archivos DTF:** medida exacta en cm, 300 DPI, limpieza de bordes semitransparentes y revisión de calidad de impresión.
 - **Lienzo DTF (gang sheet):** junta varios diseños en el ancho de tu rollo y ve toda la mesa de trabajo con reglas en cm. Acomódalos a mano o en automático para ahorrar película, calcula el costo según el precio por metro de tu proveedor (y guarda tus proveedores), y descarga el lienzo en PNG a 300 DPI, dividido por metro sin cortar diseños si tu proveedor lo pide.
 - **Quitar fondo con IA:** fondo automático, selección de objeto con un clic, varita mágica, pincel y **borrar un color en toda la imagen**.
-- **Reescalar con IA (Real-ESRGAN):** agranda imágenes pequeñas ×2, ×3 o ×4 para que se impriman nítidas.
-- **Mejorar imagen:** corrección automática de luz, color y nitidez.
+- **Reescalar con IA (Real-ESRGAN):** agranda imágenes pequeñas ×2, ×3, ×4 o directo a los cm que vas a imprimir (300 DPI reales), limpiando el ruido antes de ampliar.
+- **Mejorar imagen:** analiza la foto y corrige luz, color, ruido, artefactos JPEG y nitidez sin halos; modos foto, retrato, diseño y foto antigua.
 - **Girar y recortar**, **recorte en forma** (círculo, corazón, estrella, hexágono, insignia) y **conversor de archivos** (PNG, JPG, WEBP, ICO).
 
 ### 📸 Foto pro
+- **Borrar objetos con IA:** pinta lo que quieres quitar (personas, letreros, cables, manchas) y la IA lo rellena de forma natural.
+- **Cambiar fondo con IA:** estudio, color, degradado, fondo desenfocado o tu propia imagen, con sombra y luz que integran al sujeto.
+- **Enderezar y perspectiva**, **ajustes locales** (filtro radial y graduado) y **retoque de piel** que conserva la textura.
 - **Expandir imagen con IA:** agranda tu foto a 9:16, 4:5, 16:9 o lo que quieras y rellena lo nuevo con IA que inventa el fondo, estirando el fondo, en espejo, con un color o transparente.
-- **Revelado estilo Lightroom:** exposición, luces y sombras, curva de tonos por canal, temperatura, mezcla de color HSL, gradación de color, claridad, neblina, viñeta, grano y nitidez, con histograma en vivo, botón Auto y 12 estilos listos.
+- **Revelado estilo Lightroom:** exposición, luces y sombras, curva de tonos por canal, temperatura, mezcla de color HSL, gradación de color, claridad, neblina, viñeta, grano y nitidez, con histograma en vivo, botón Auto, 12 estilos listos y LUTs de color (.cube).
 - **Desenfoque pro:** gaussiano, lente con bokeh, movimiento, zoom, efecto miniatura (tilt-shift) y desenfocar el fondo de un retrato o producto con IA.
 - **Efectos de luz:** foco de estudio, resplandor, fugas de luz de película, destello de lente y rayos de luz.
 
