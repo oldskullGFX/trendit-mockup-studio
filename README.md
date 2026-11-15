@@ -1,4 +1,4 @@
-# Trendit Mockup Studio
+# Trendit Creative Studio
 
 **El estudio de diseño para estampado, todo en un solo programa.**
 Crea mockups realistas, prepara archivos DTF, quita fondos con IA, separa colores para serigrafía y diseña playeras con plantillas profesionales, sin necesidad de saber Photoshop o Illustrator.
@@ -13,7 +13,7 @@ Instagram: [@trenditlab](https://www.instagram.com/trenditlab/) · [@holyshirtux
 
 ## ¿Qué es?
 
-Trendit Mockup Studio es un programa de escritorio para personas y negocios que **diseñan, imprimen y venden ropa personalizada**: playeras, sudaderas y demás prendas.
+Trendit Creative Studio es un programa de escritorio para personas y negocios que **diseñan, imprimen y venden ropa personalizada**: playeras, sudaderas y demás prendas.
 Reúne en una sola ventana las herramientas que normalmente necesitarías buscar en varios programas, páginas web o suscripciones de pago. Cada una te guía con pasos claros.
 
 ## ¿Cómo ayuda a los diseñadores emergentes?
@@ -31,6 +31,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 ## Funciones
 
 ### 👕 Mockups
+- **Mockups 3D:** playera, sudadera, taza, termo, lata, caja y cuadro con tu diseño; gíralos con el mouse y descarga foto o video de 360°.
 - **Mockup realista:** coloca tu diseño en playeras y sudaderas reales y cambia el color de la prenda. Respeta las arrugas y la luz de la tela. Exporta en formatos para Instagram (1:1, 4:5, historia).
 - **Medida real:** elige talla (CH a 3EG) y corte (regular u oversize); el diseño se coloca en cm y a la distancia exacta del cuello, con opción de mostrar las medidas sobre la prenda.
 - **Mockups automáticos:** genera de una vez tu diseño en varias prendas y colores, con medidas reales, y descárgalos en un ZIP.
@@ -79,6 +80,9 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Ficha técnica (tech pack) en PDF** y **cotizador** con precio sugerido.
 
 ### 🅰️ Diseño
+- **Pinceles de Photoshop (.abr):** importa tus pinceles (o imágenes PNG) y pinta con su punta en la mesa de trabajo, con espaciado, dirección del trazo, variación, dispersión y estampa única.
+- **Vectores en la mesa de trabajo:** pluma y nodos, convertir figuras, íconos, textos e imágenes en vector, texto sobre un trazo y varias páginas por archivo.
+- **Imprenta:** PDF vectorial con sangrado, marcas de corte y CMYK, SVG editable y simulación de impresión.
 - **Interfaz por modos:** botón «Modos» para cambiar entre Mockups, DTF, Foto, Efectos, Taller y Diseño; buscador de herramientas (Ctrl+K), ayuda al pasar el mouse e Inicio para crear proyectos.
 - **Mesa de trabajo profesional:** panel de capas con miniaturas y arrastrar para ordenar, selección múltiple, grupos, alinear y repartir, reglas y guías con imán, capas de ajuste, máscaras de recorte y guardado automático.
 - **Mesa de trabajo con menú (Archivo, Editar, Imagen, Capa, Herramientas, Ver):** documento nuevo a la medida (px, cm, pulgadas, DPI) con más de 25 tamaños listos, pinceles (lápiz, marcador, aerógrafo, caligrafía, spray, gis) con estabilizador y presión de tableta, borrador, bote de pintura, cuentagotas, textos y figuras. Aplica **cualquier herramienta del programa a una capa**, combina, rasteriza, alinea y exporta en PNG, JPG, PDF, WEBP o capas por separado.
@@ -118,6 +122,7 @@ Escribe tu frase y conviértela en un diseño de letras listo para estampar:
   - Reescalado con Real-ESRGAN en ONNX Runtime, usando la tarjeta gráfica (WebGPU) o varios núcleos del procesador. El programa elige solo lo más rápido para tu equipo.
   - Expandir imagen con LaMa (licencia Apache-2.0) en ONNX Runtime, procesando en cuadros de 512×512 y emparejando el color con la foto original.
   - Restaurar fotos: detección de rostros con YuNet (MIT), rostros con GFPGAN 1.4 (Apache-2.0) y color con DeOldify (MIT).
+  - Mockups 3D con three.js (MIT), incluido en el programa.
   - Algunos modelos se descargan una sola vez, la primera vez que los usas.
 - **Vectorización** propia: paleta exacta, limpieza de ruido y quitar fondo antes de trazar las curvas con ImageTracer (dominio público). La exportación a PDF y EPS vectorial está escrita desde cero.
 - **Actualizaciones automáticas** con electron-updater desde las publicaciones de este repositorio.
@@ -131,22 +136,22 @@ Hay dos formas de usar el programa:
 
 | | Instalador (recomendado) | Portable |
 |---|---|---|
-| Archivo | `Trendit-Mockup-Studio-Setup-X.Y.Z.exe` | `Trendit-Mockup-Studio-Portable-X.Y.Z.exe` |
+| Archivo | `Trendit-Creative-Studio-Setup-X.Y.Z.exe` | `Trendit-Creative-Studio-Portable-X.Y.Z.exe` |
 | Se instala en la computadora | Sí, con acceso directo en el escritorio y en el menú Inicio | No, se abre directo |
 | Se actualiza solo | ✅ Sí | ❌ No, hay que descargar la versión nueva a mano |
 | Ideal para | Uso diario | Probar el programa o llevarlo en una USB |
 
 ### Método 1: instalador (recomendado)
 
-1. Entra a la [última versión](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest) y, en **Assets**, descarga `Trendit-Mockup-Studio-Setup-X.Y.Z.exe`.
+1. Entra a la [última versión](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest) y, en **Assets**, descarga `Trendit-Creative-Studio-Setup-X.Y.Z.exe`.
 2. Abre el archivo descargado.
 3. Si Windows muestra **«Windows protegió su PC»** (SmartScreen), haz clic en **Más información → Ejecutar de todas formas**. Aparece porque el programa todavía no tiene firma digital de pago; es normal en programas independientes.
 4. Elige si lo instalas solo para tu usuario y en qué carpeta, y pulsa **Instalar**.
-5. Al terminar, ábrelo desde el acceso directo **Trendit Mockup Studio** del escritorio o del menú Inicio.
+5. Al terminar, ábrelo desde el acceso directo **Trendit Creative Studio** del escritorio o del menú Inicio.
 
 ### Método 2: portable (sin instalar)
 
-1. Descarga `Trendit-Mockup-Studio-Portable-X.Y.Z.exe` desde la [última versión](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest).
+1. Descarga `Trendit-Creative-Studio-Portable-X.Y.Z.exe` desde la [última versión](https://github.com/oldskullGFX/trendit-mockup-studio/releases/latest).
 2. Guárdalo donde quieras (escritorio, una carpeta o una USB) y ábrelo con doble clic. Si aparece SmartScreen, sigue el mismo paso 3 del método 1.
 3. Tarda unos segundos en abrir porque se descomprime cada vez.
 
@@ -155,7 +160,7 @@ Hay dos formas de usar el programa:
 1. Al abrir aparece la bienvenida con nuestras redes. Pulsa **Continuar al programa**.
 2. Abre tu diseño con **📂 Abrir**, arrastrándolo a la ventana o pegándolo con **Ctrl+V**.
 3. Elige una tarea en la pantalla de inicio o en el menú de la izquierda; cada herramienta te guía en 3 pasos.
-4. Descarga con el botón morado. Los archivos se guardan en **Descargas › Trendit Mockup Studio**. El botón **Descargas** de la barra superior abre esa carpeta.
+4. Descarga con el botón morado. Los archivos se guardan en **Descargas › Trendit Creative Studio**. El botón **Descargas** de la barra superior abre esa carpeta.
 5. La primera vez que usas una herramienta de IA (quitar fondo o selección de objeto) se descarga su modelo; necesitas internet solo esa vez.
 
 ### Actualizaciones
@@ -167,7 +172,7 @@ Hay dos formas de usar el programa:
 
 ### Desinstalar
 
-**Configuración de Windows → Aplicaciones → Aplicaciones instaladas → Trendit Mockup Studio → Desinstalar.** Tus archivos de la carpeta Descargas no se borran.
+**Configuración de Windows → Aplicaciones → Aplicaciones instaladas → Trendit Creative Studio → Desinstalar.** Tus archivos de la carpeta Descargas no se borran.
 
 ### Problemas comunes
 
@@ -187,7 +192,7 @@ Son las mismas cuentas que aparecen en el programa: en la bienvenida y arriba a 
 
 ## 💙 Apoya el proyecto
 
-Trendit Mockup Studio es **gratis** y lo seguirá siendo. Si te ayuda en tu negocio y quieres apoyarnos para seguir agregando herramientas, puedes hacer una **donación opcional** por Mercado Pago, de la cantidad que tú quieras:
+Trendit Creative Studio es **gratis** y lo seguirá siendo. Si te ayuda en tu negocio y quieres apoyarnos para seguir agregando herramientas, puedes hacer una **donación opcional** por Mercado Pago, de la cantidad que tú quieras:
 
 **[👉 Donar con Mercado Pago](https://link.mercadopago.com.mx/hollyshirt)**
 
