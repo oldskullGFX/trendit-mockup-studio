@@ -51,7 +51,9 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 ### 📸 Foto pro
 - **Borrar objetos con IA:** pinta lo que quieres quitar (personas, letreros, cables, manchas) y la IA lo rellena de forma natural.
 - **Cambiar fondo con IA:** estudio, color, degradado, fondo desenfocado o tu propia imagen, con sombra y luz que integran al sujeto.
-- **Enderezar y perspectiva**, **ajustes locales** (filtro radial y graduado) y **retoque de piel** que conserva la textura.
+- **Restaurar fotos con IA:** quita ruido y grano, reconstruye rostros borrosos o dañados (GFPGAN) y colorea fotos en blanco y negro (DeOldify).
+- **Color de prenda con IA:** haz clic en la playera o sudadera de una foto real y cámbiale el color conservando arrugas, sombras y el estampado.
+- **Enderezar, perspectiva y lente** (distorsión, aberración cromática y viñeteo), **ajustes locales** (filtro radial y graduado) y **retoque de piel** que conserva la textura.
 - **Expandir imagen con IA:** agranda tu foto a 9:16, 4:5, 16:9 o lo que quieras y rellena lo nuevo con IA que inventa el fondo, estirando el fondo, en espejo, con un color o transparente.
 - **Revelado estilo Lightroom:** exposición, luces y sombras, curva de tonos por canal, temperatura, mezcla de color HSL, gradación de color, claridad, neblina, viñeta, grano y nitidez, con histograma en vivo, botón Auto, 12 estilos listos y LUTs de color (.cube).
 - **Desenfoque pro:** gaussiano, lente con bokeh, movimiento, zoom, efecto miniatura (tilt-shift) y desenfocar el fondo de un retrato o producto con IA.
@@ -110,6 +112,7 @@ Escribe tu frase y conviértela en un diseño de letras listo para estampar:
   - Quitar fondo automático con @imgly/background-removal.
   - Reescalado con Real-ESRGAN en ONNX Runtime, usando la tarjeta gráfica (WebGPU) o varios núcleos del procesador. El programa elige solo lo más rápido para tu equipo.
   - Expandir imagen con LaMa (licencia Apache-2.0) en ONNX Runtime, procesando en cuadros de 512×512 y emparejando el color con la foto original.
+  - Restaurar fotos: detección de rostros con YuNet (MIT), rostros con GFPGAN 1.4 (Apache-2.0) y color con DeOldify (MIT).
   - Algunos modelos se descargan una sola vez, la primera vez que los usas.
 - **Vectorización** propia: paleta exacta, limpieza de ruido y quitar fondo antes de trazar las curvas con ImageTracer (dominio público). La exportación a PDF y EPS vectorial está escrita desde cero.
 - **Actualizaciones automáticas** con electron-updater desde las publicaciones de este repositorio.
