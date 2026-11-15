@@ -54,6 +54,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Restaurar fotos con IA:** quita ruido y grano, reconstruye rostros borrosos o dañados (GFPGAN) y colorea fotos en blanco y negro (DeOldify).
 - **Color de prenda con IA:** haz clic en la playera o sudadera de una foto real y cámbiale el color conservando arrugas, sombras y el estampado.
 - **Enderezar, perspectiva y lente** (distorsión, aberración cromática y viñeteo), **ajustes locales** (filtro radial y graduado) y **retoque de piel** que conserva la textura.
+- **Reescalar personas sin deformar:** modo «Personas» y control «Conservar el original» para dar resolución sin cambiar caras, piel ni cabello.
 - **Expandir imagen con IA:** agranda tu foto a 9:16, 4:5, 16:9 o lo que quieras y rellena lo nuevo con IA que inventa el fondo, estirando el fondo, en espejo, con un color o transparente.
 - **Revelado estilo Lightroom:** exposición, luces y sombras, curva de tonos por canal, temperatura, mezcla de color HSL, gradación de color, claridad, neblina, viñeta, grano y nitidez, con histograma en vivo, botón Auto, 12 estilos listos y LUTs de color (.cube).
 - **Desenfoque pro:** gaussiano, lente con bokeh, movimiento, zoom, efecto miniatura (tilt-shift) y desenfocar el fondo de un retrato o producto con IA.
@@ -78,6 +79,8 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Ficha técnica (tech pack) en PDF** y **cotizador** con precio sugerido.
 
 ### 🅰️ Diseño
+- **Interfaz por modos:** botón «Modos» para cambiar entre Mockups, DTF, Foto, Efectos, Taller y Diseño; buscador de herramientas (Ctrl+K), ayuda al pasar el mouse e Inicio para crear proyectos.
+- **Mesa de trabajo profesional:** panel de capas con miniaturas y arrastrar para ordenar, selección múltiple, grupos, alinear y repartir, reglas y guías con imán, capas de ajuste, máscaras de recorte y guardado automático.
 - **Mesa de trabajo con menú (Archivo, Editar, Imagen, Capa, Herramientas, Ver):** documento nuevo a la medida (px, cm, pulgadas, DPI) con más de 25 tamaños listos, pinceles (lápiz, marcador, aerógrafo, caligrafía, spray, gis) con estabilizador y presión de tableta, borrador, bote de pintura, cuentagotas, textos y figuras. Aplica **cualquier herramienta del programa a una capa**, combina, rasteriza, alinea y exporta en PNG, JPG, PDF, WEBP o capas por separado.
 - **Armonías de color** (HEX, RGB, CMYK, contraste y paletas .ase/.gpl), **fondos y degradados**, **boceto y lineart**, **simetría y caleidoscopio**, **presentación de marca** y **retículas con proporción áurea**.
 - **Editor por capas (nivel Photoshop):** modos de fusión, máscaras de capa con pincel o IA, ajustes no destructivos, sombras, textos con degradado y 3D, formas, íconos y tablas. Guarda proyectos editables **.trendit**. Exporta PNG, JPG o PDF.
