@@ -78,6 +78,8 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Ficha técnica (tech pack) en PDF** y **cotizador** con precio sugerido.
 
 ### 🅰️ Diseño
+- **Mesa de trabajo con menú (Archivo, Editar, Imagen, Capa, Herramientas, Ver):** documento nuevo a la medida (px, cm, pulgadas, DPI) con más de 25 tamaños listos, pinceles (lápiz, marcador, aerógrafo, caligrafía, spray, gis) con estabilizador y presión de tableta, borrador, bote de pintura, cuentagotas, textos y figuras. Aplica **cualquier herramienta del programa a una capa**, combina, rasteriza, alinea y exporta en PNG, JPG, PDF, WEBP o capas por separado.
+- **Armonías de color** (HEX, RGB, CMYK, contraste y paletas .ase/.gpl), **fondos y degradados**, **boceto y lineart**, **simetría y caleidoscopio**, **presentación de marca** y **retículas con proporción áurea**.
 - **Editor por capas (nivel Photoshop):** modos de fusión, máscaras de capa con pincel o IA, ajustes no destructivos, sombras, textos con degradado y 3D, formas, íconos y tablas. Guarda proyectos editables **.trendit**. Exporta PNG, JPG o PDF.
 - **Editor vectorial (nivel Illustrator):** pluma, nodos, figuras, buscatrazos, simplificar y recolorear; importa SVG y exporta SVG, PDF y EPS.
 - **Plantillas:** playeras (universitario, jersey, retro, Y2K, groovy, graffiti…), parejas («Only You», «Nuestra canción»…), música y artistas (reproductor con letra, estilo bootleg, gira, boleto de concierto), redes sociales, catálogos y hojas de pedido.
