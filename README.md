@@ -80,7 +80,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Ficha técnica (tech pack) en PDF** y **cotizador** con precio sugerido.
 
 ### 🅰️ Diseño
-- **Pinceles de Photoshop (.abr):** importa tus pinceles (o imágenes PNG) y pinta con su punta en la mesa de trabajo, con espaciado, dirección del trazo, variación, dispersión y estampa única.
+- **817 pinceles incluidos** (agua, aves, cabello, fuego, humo, nubes, rayos de luz, siluetas, texturas y más) y **pinceles de Photoshop (.abr):** importa los tuyos (o imágenes PNG) y pinta con su punta en la mesa de trabajo, con espaciado, dirección del trazo, variación, dispersión y estampa única.
 - **Vectores en la mesa de trabajo:** pluma y nodos, convertir figuras, íconos, textos e imágenes en vector, texto sobre un trazo y varias páginas por archivo.
 - **Imprenta:** PDF vectorial con sangrado, marcas de corte y CMYK, SVG editable y simulación de impresión.
 - **Interfaz por modos:** botón «Modos» para cambiar entre Mockups, DTF, Foto, Efectos, Taller y Diseño; buscador de herramientas (Ctrl+K), ayuda al pasar el mouse e Inicio para crear proyectos.
