@@ -36,6 +36,9 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Mockups automáticos:** genera de una vez tu diseño en varias prendas y colores, con medidas reales, y descárgalos en un ZIP.
 - **Mis plantillas:** usa fotos de tus propias prendas como mockup.
 - **Frente y espalda:** divide un diseño que une frente y espalda y míralo puesto en la prenda.
+- **Más productos:** taza, gorra, sticker y etiqueta de cuello.
+- **Estampados extra** en mangas, pecho y nuca, y simulación de **bordado** y **puff**.
+- **Carrusel de Instagram** y **reel en video** generados automáticamente con tus mockups.
 
 ### 🖨️ Preparar para imprimir
 - **Archivos DTF:** medida exacta en cm, 300 DPI, limpieza de bordes semitransparentes y revisión de calidad de impresión.
@@ -54,6 +57,9 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Desenfoque pro:** gaussiano, lente con bokeh, movimiento, zoom, efecto miniatura (tilt-shift) y desenfocar el fondo de un retrato o producto con IA.
 - **Efectos de luz:** foco de estudio, resplandor, fugas de luz de película, destello de lente y rayos de luz.
 
+- **Selección** (rectángulo, elipse, lazo, varita, color, sujeto y cielo con IA): las herramientas solo afectan lo seleccionado.
+- **Pinceles de retoque:** tampón de clonar, pincel corrector, aclarar, oscurecer, desenfocar, enfocar y licuar.
+
 ### ✨ Efectos
 - **Semitonos sin semitransparencias**, incluido el modo para borrar un color con puntos.
 - **Umbral**, **viñetas**, **marcos**, **texturas vintage**, **cambio de color**.
@@ -65,12 +71,20 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 - **Separación de colores para serigrafía:** un positivo por tinta, base blanca para prenda oscura, marcas de registro y descarga en ZIP.
 - **Pedrería** y **pedrería sobre DTF:** con conteo de piedras y plantilla de corte.
 - **Vinil reflectante:** vista con y sin flash, capa de corte y capa DTF.
+- **Capa de blanco** para DTF/DTG con contracción y quitar negro.
+- **Pantone y CMYK:** el Pantone más cercano a cada color y simulación de impresión.
+- **Ficha técnica (tech pack) en PDF** y **cotizador** con precio sugerido.
 
 ### 🅰️ Diseño
-- **Editor de plantillas por capas:** textos con degradado, doble contorno y efecto 3D; texto curvo; fotos en círculo o corazón; formas, íconos y tablas. Exporta PNG, JPG o PDF.
+- **Editor por capas (nivel Photoshop):** modos de fusión, máscaras de capa con pincel o IA, ajustes no destructivos, sombras, textos con degradado y 3D, formas, íconos y tablas. Guarda proyectos editables **.trendit**. Exporta PNG, JPG o PDF.
+- **Editor vectorial (nivel Illustrator):** pluma, nodos, figuras, buscatrazos, simplificar y recolorear; importa SVG y exporta SVG, PDF y EPS.
 - **Plantillas:** playeras (universitario, jersey, retro, Y2K, groovy, graffiti…), parejas («Only You», «Nuestra canción»…), música y artistas (reproductor con letra, estilo bootleg, gira, boleto de concierto), redes sociales, catálogos y hojas de pedido.
 - **Guía de medidas:** acomoda los diseños a tamaño real sobre el plano de la prenda y calcula el costo de DTF.
 - **Paleta de colores** (códigos HEX) y **patrón repetido** para sublimación.
+
+### 📦 Trabajo en lote
+- **Mis estilos** guardados en cada herramienta, **recetas/acciones** que se repiten con un clic y **procesar en lote** con cambio de tamaño, marca de agua y formato.
+- **Ajustes:** tema, tamaño de la interfaz, color de acento, motor de la IA, medidas y precios predeterminados, respaldo de ajustes.
 
 ### ✒️ Vectorizador
 Convierte logos, dibujos e ilustraciones en **vectores** que puedes agrandar a cualquier tamaño sin perder calidad:
