@@ -31,6 +31,9 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 ## Funciones
 
 ### 👕 Mockups
+- **Productos 3D:** taza de cerámica, termo, lata, caja, cuadro, cojín y funda de celular con luz de estudio y reflejos reales; foto PNG y video 360°.
+- **Rendimiento:** prueba de rendimiento con perfil recomendado y elección de tarjeta gráfica (dedicada o integrada). Fuentes incluidas: funciona sin internet.
+- **Efectos de imagen nuevos:** color selectivo, doble exposición, arte pop, pintura artística (óleo, acuarela, cómic) y dispersión en partículas.
 - **Playera 3D realista (Trendit Blank Builder integrado):** la playera puesta en un maniquí visible (blanco, negro, gris, tres tonos de piel o efecto fantasma), medidas reales por talla y corte, caída de tela simulada, telas y lavados, render fotorrealista rápido, video 360° y archivos de producción, con tu diseño colocado en un clic. Con «Llevar a la Mesa», la vista 3D pasa como capa transparente a la Mesa de trabajo.
 - **Planos técnicos:** 23 estilos (playera, manga larga, polo, tank top, jersey) y constructor con 21 cuerpos, 28 cuellos y etiquetas; color por zonas y tu diseño al frente y a la espalda.
 - **Mockups 3D:** playera, sudadera, taza, termo, lata, caja y cuadro con tu diseño; gíralos con el mouse y descarga foto o video de 360°.
