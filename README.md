@@ -31,7 +31,7 @@ Empezar un negocio de estampado suele implicar pagar programas caros, aprender a
 ## Funciones
 
 ### 👕 Mockups
-- **Playera 3D realista (Trendit Blank Builder integrado):** medidas reales por talla y corte, caída de tela sobre maniquí, telas y lavados, render fotorrealista, video 360° y archivos de producción, con tu diseño colocado en un clic.
+- **Playera 3D realista (Trendit Blank Builder integrado):** la playera puesta en un maniquí visible (blanco, negro, gris, tres tonos de piel o efecto fantasma), medidas reales por talla y corte, caída de tela simulada, telas y lavados, render fotorrealista rápido, video 360° y archivos de producción, con tu diseño colocado en un clic. Con «Llevar a la Mesa», la vista 3D pasa como capa transparente a la Mesa de trabajo.
 - **Planos técnicos:** 23 estilos (playera, manga larga, polo, tank top, jersey) y constructor con 21 cuerpos, 28 cuellos y etiquetas; color por zonas y tu diseño al frente y a la espalda.
 - **Mockups 3D:** playera, sudadera, taza, termo, lata, caja y cuadro con tu diseño; gíralos con el mouse y descarga foto o video de 360°.
 - **Mockup realista:** coloca tu diseño en playeras y sudaderas reales y cambia el color de la prenda. Respeta las arrugas y la luz de la tela. Exporta en formatos para Instagram (1:1, 4:5, historia).
